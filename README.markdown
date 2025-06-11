@@ -25,7 +25,7 @@ To use Minigrep, you need to have Rust installed on your system. Follow these st
 2. **Clone the Repository**:
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/minigrep.git
+   git clone https://github.com/sh1lezh/minigrep.git
    cd minigrep
    ```
 
